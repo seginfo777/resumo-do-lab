@@ -1,4 +1,4 @@
-# resumo-do-lab
+# Resumo-do-lab
 Resumo das aulas de Cloud - LAB DIO
 
 ##  Principais Tópicos Abordados
