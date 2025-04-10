@@ -16,7 +16,7 @@ Os provedores de nuvem oferecem diferentes níveis de disponibilidade, sendo os 
 
 A escolha do SLA adequado depende do nível de criticidade do serviço. Serviços de missão crítica, como aplicações bancárias ou sistemas hospitalares, geralmente exigem SLAs mais elevados para minimizar períodos de indisponibilidade.
 
-###  Modelos de Redundância
+###  Contas de Armazenamento e Opções de Disponibilidade
 Para garantir a continuidade dos serviços e minimizar riscos de perda de dados, diferentes estratégias de redundância são implementadas, incluindo:
 
 - **LRS (Locally Redundant Storage):** Mantém múltiplas cópias dos dados dentro de um único datacenter na região primária. Protege contra falhas de hardware locais.
